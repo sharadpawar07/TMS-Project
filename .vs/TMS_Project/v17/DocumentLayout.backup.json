@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|c:\\users\\sharad ajinath pawar\\source\\repos\\tms_project\\tms_project\\student_signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\student_signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\student\\student_dashboard.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\student\\student_dashboard.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\student_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\student_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|c:\\users\\sharad ajinath pawar\\source\\repos\\tms_project\\tms_project\\tutor_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\tutor_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|c:\\users\\sharad ajinath pawar\\source\\repos\\tms_project\\tms_project\\tutor_signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\tutor_signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\tms_site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\tms_site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_dashboard.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_dashboard.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_view_students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_view_students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\student\\student_index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\student\\student_index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_view_students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_view_students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\tutor\\tutor_index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\tutor\\tutor_index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\student\\student_index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\student\\student_index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_view_tutor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_view_tutor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\tms_project\\admin\\admin_index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33057450-39CC-4F6B-A215-981F148D3662}|TMS_Project\\TMS_Project.csproj|solutionrelative:tms_project\\admin\\admin_index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHARAD_PC/TMS_DB/True/SqlTable/dbo.contact_tbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 2123,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin_dashboard.Master",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\admin_dashboard.Master",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\admin_dashboard.Master",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\admin_dashboard.Master",
+              "RelativeToolTip": "TMS_Project\\admin\\admin_dashboard.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-11T04:01:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_Login.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\Admin_Login.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_Login.aspx",
+              "RelativeToolTip": "TMS_Project\\admin\\Admin_Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T13:50:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin_Index.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_Index.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\Admin_Index.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_Index.aspx",
+              "RelativeToolTip": "TMS_Project\\admin\\Admin_Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-14T05:30:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student_Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Student_Signup.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\Student_Signup.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Student_Signup.aspx",
+              "RelativeToolTip": "TMS_Project\\Student_Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T13:59:10.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student_Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Student_Login.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\Student_Login.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Student_Login.aspx",
+              "RelativeToolTip": "TMS_Project\\Student_Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T08:49:33.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tutor_Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Tutor_Signup.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\Tutor_Signup.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Tutor_Signup.aspx",
+              "RelativeToolTip": "TMS_Project\\Tutor_Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T12:08:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tutor_Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Tutor_Login.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\Tutor_Login.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\Tutor_Login.aspx",
+              "RelativeToolTip": "TMS_Project\\Tutor_Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T12:09:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TMS_Site.Master",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\TMS_Site.Master",
+              "RelativeDocumentMoniker": "TMS_Project\\TMS_Site.Master",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\TMS_Site.Master",
+              "RelativeToolTip": "TMS_Project\\TMS_Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-26T13:51:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student_Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\student\\Student_Index.aspx.cs",
+              "RelativeDocumentMoniker": "TMS_Project\\student\\Student_Index.aspx.cs",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\student\\Student_Index.aspx.cs",
+              "RelativeToolTip": "TMS_Project\\student\\Student_Index.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:02:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student_Index.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\student\\Student_Index.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\student\\Student_Index.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\student\\Student_Index.aspx",
+              "RelativeToolTip": "TMS_Project\\student\\Student_Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T10:01:48.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin_View_Students.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_View_Students.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\Admin_View_Students.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_View_Students.aspx",
+              "RelativeToolTip": "TMS_Project\\admin\\Admin_View_Students.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T08:21:14.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student_Dashboard.Master",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\student\\Student_Dashboard.Master",
+              "RelativeDocumentMoniker": "TMS_Project\\student\\Student_Dashboard.Master",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\student\\Student_Dashboard.Master",
+              "RelativeToolTip": "TMS_Project\\student\\Student_Dashboard.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T10:02:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tutor_Index.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\tutor\\Tutor_Index.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\tutor\\Tutor_Index.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\tutor\\Tutor_Index.aspx",
+              "RelativeToolTip": "TMS_Project\\tutor\\Tutor_Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T10:07:13.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin_View_Tutor.aspx",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_View_Tutor.aspx",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\Admin_View_Tutor.aspx",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_View_Tutor.aspx",
+              "RelativeToolTip": "TMS_Project\\admin\\Admin_View_Tutor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-15T09:09:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_View_Students.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_View_Students.aspx.cs",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\Admin_View_Students.aspx.cs",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_View_Students.aspx.cs",
+              "RelativeToolTip": "TMS_Project\\admin\\Admin_View_Students.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:21:20.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin_Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_Index.aspx.cs",
+              "RelativeDocumentMoniker": "TMS_Project\\admin\\Admin_Index.aspx.cs",
+              "ToolTip": "C:\\Users\\Sharad Ajinath Pawar\\source\\repos\\TMS_Project\\TMS_Project\\admin\\Admin_Index.aspx.cs",
+              "RelativeToolTip": "TMS_Project\\admin\\Admin_Index.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:12:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.contact_tbl.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHARAD_PC/TMS_DB/True/SqlTable/dbo.contact_tbl.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHARAD_PC/TMS_DB/True/SqlTable/dbo.contact_tbl.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-11T03:36:23.664Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 156,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
